@@ -3,7 +3,7 @@
 <!-- I'm a data scientist -->
 
 <a href="https://www.linkedin.com/in/ulysse-guyet/">
-  <img align="left" alt="Ulysse's Linkedin" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ulysse's Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br/>
